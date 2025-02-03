@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "E:\\Project\\ProductivityApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\viewmodels\\tasklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|solutionrelative:viewmodels\\tasklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\views\\tasklistview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,6 +13,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\views\\tasklistview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|solutionrelative:views\\tasklistview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|solutionrelative:models\\taskmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\viewmodels\\tasklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|solutionrelative:viewmodels\\tasklistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,8 +54,16 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -64,7 +72,7 @@
               "RelativeDocumentMoniker": "Views\\TaskListView.axaml.cs",
               "ToolTip": "E:\\Project\\ProductivityApp\\Views\\TaskListView.axaml.cs",
               "RelativeToolTip": "Views\\TaskListView.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T13:52:54.582Z",
               "EditorCaption": ""
@@ -77,14 +85,14 @@
               "RelativeDocumentMoniker": "Views\\TaskListView.axaml",
               "ToolTip": "E:\\Project\\ProductivityApp\\Views\\TaskListView.axaml",
               "RelativeToolTip": "Views\\TaskListView.axaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-03T13:31:51.892Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "App.axaml.cs",
               "DocumentMoniker": "E:\\Project\\ProductivityApp\\App.axaml.cs",
               "RelativeDocumentMoniker": "App.axaml.cs",
@@ -92,12 +100,11 @@
               "RelativeToolTip": "App.axaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T13:35:45.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T13:35:45.028Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "TaskModel.cs",
               "DocumentMoniker": "E:\\Project\\ProductivityApp\\Models\\TaskModel.cs",
               "RelativeDocumentMoniker": "Models\\TaskModel.cs",
@@ -105,26 +112,17 @@
               "RelativeToolTip": "Models\\TaskModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T13:33:20.557Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-02-03T13:33:20.557Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "TaskListViewModel.cs",
               "DocumentMoniker": "E:\\Project\\ProductivityApp\\ViewModels\\TaskListViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\TaskListViewModel.cs",
               "ToolTip": "E:\\Project\\ProductivityApp\\ViewModels\\TaskListViewModel.cs",
               "RelativeToolTip": "ViewModels\\TaskListViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T13:05:58.661Z",
               "EditorCaption": ""
@@ -157,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "App.axaml",
               "DocumentMoniker": "E:\\Project\\ProductivityApp\\App.axaml",
               "RelativeDocumentMoniker": "App.axaml",
@@ -165,31 +163,30 @@
               "RelativeToolTip": "App.axaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-02-03T13:02:30.306Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T13:02:30.306Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "E:\\Project\\ProductivityApp\\Views\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
               "ToolTip": "E:\\Project\\ProductivityApp\\Views\\MainWindow.axaml.cs",
               "RelativeToolTip": "Views\\MainWindow.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAzwAUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAzwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T13:10:42.21Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "MainWindow.axaml",
               "DocumentMoniker": "E:\\Project\\ProductivityApp\\Views\\MainWindow.axaml",
               "RelativeDocumentMoniker": "Views\\MainWindow.axaml",
               "ToolTip": "E:\\Project\\ProductivityApp\\Views\\MainWindow.axaml",
               "RelativeToolTip": "Views\\MainWindow.axaml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-03T13:02:28.785Z",
               "EditorCaption": ""

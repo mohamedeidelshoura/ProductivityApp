@@ -6,3 +6,9 @@ E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.AssemblyInfoInputs.c
 E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.AssemblyInfo.cs
 E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.csproj.CoreCompileInputs.cache
 E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.sourcelink.json
+E:\Project\ProductivityApp\obj\Debug\net9.0\Avalonia\ProductivityApp.dll
+E:\Project\ProductivityApp\obj\Debug\net9.0\Avalonia\ProductivityApp.pdb
+E:\Project\ProductivityApp\obj\Debug\net9.0\refint\Avalonia\ProductivityApp.dll
+E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.dll
+E:\Project\ProductivityApp\obj\Debug\net9.0\refint\ProductivityApp.dll
+E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.pdb

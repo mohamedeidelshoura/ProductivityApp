@@ -1,4 +1,5 @@
 ﻿using Avalonia.Controls;
+using ProductivityApp.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -12,6 +13,8 @@ namespace ProductivityApp.Views
         public TaskListView()
         {
             InitializeComponent();
+            this.DataContext = new TaskListViewModel(); // تأكد من تعيين الـ ViewModel هنا
         }
     }
+
 }

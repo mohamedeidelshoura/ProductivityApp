@@ -1,0 +1,7 @@
+E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.csproj.AssemblyReference.cache
+E:\Project\ProductivityApp\obj\Debug\net9.0\Avalonia\Resources.Inputs.cache
+E:\Project\ProductivityApp\obj\Debug\net9.0\Avalonia\resources
+E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.AssemblyInfoInputs.cache
+E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.AssemblyInfo.cs
+E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.csproj.CoreCompileInputs.cache

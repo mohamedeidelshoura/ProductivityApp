@@ -1,0 +1,19 @@
+﻿<UserControl xmlns="https://github.com/avaloniaui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             x:Class="ProductivityApp.Views.TaskListView">
+    
+    <StackPanel>
+        <TextBlock Text="📋 قائمة المهام" FontSize="20" Margin="10"/>
+        <ListBox Items="{Binding Tasks}">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Orientation="Horizontal">
+                        <CheckBox IsChecked="{Binding IsCompleted}"/>
+                        <TextBlock Text="{Binding Title}" Margin="10,0,0,0"/>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+        <Button Content="➕ إضافة مهمة" Command="{Binding AddTaskCommand}" Margin="10"/>
+    </StackPanel>
+</UserControl>

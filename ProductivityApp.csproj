@@ -20,8 +20,4 @@
     </PackageReference>
     <PackageReference Include="ReactiveUI" Version="20.1.63" />
   </ItemGroup>
-
-  <ItemGroup>
-    <Folder Include="ViewModels\" />
-  </ItemGroup>
 </Project>

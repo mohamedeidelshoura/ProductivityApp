@@ -5,3 +5,4 @@ E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.GeneratedMSBuildEdit
 E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.AssemblyInfoInputs.cache
 E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.AssemblyInfo.cs
 E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.csproj.CoreCompileInputs.cache
+E:\Project\ProductivityApp\obj\Debug\net9.0\ProductivityApp.sourcelink.json

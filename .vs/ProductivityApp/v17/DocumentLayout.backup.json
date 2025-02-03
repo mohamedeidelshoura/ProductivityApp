@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "E:\\Project\\ProductivityApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\views\\tasklistview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|solutionrelative:views\\tasklistview.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\views\\tasklistview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|solutionrelative:views\\tasklistview.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|solutionrelative:views\\mainwindow.axaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7B5FCF0E-D14E-4253-8DF1-6BFCB66C195D}|ProductivityApp.csproj|e:\\project\\productivityapp\\views\\mainwindow.axaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
@@ -54,30 +54,30 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "TaskListView.axaml.cs",
               "DocumentMoniker": "E:\\Project\\ProductivityApp\\Views\\TaskListView.axaml.cs",
               "RelativeDocumentMoniker": "Views\\TaskListView.axaml.cs",
               "ToolTip": "E:\\Project\\ProductivityApp\\Views\\TaskListView.axaml.cs",
               "RelativeToolTip": "Views\\TaskListView.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T13:52:54.582Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "TaskListView.axaml",
               "DocumentMoniker": "E:\\Project\\ProductivityApp\\Views\\TaskListView.axaml",
               "RelativeDocumentMoniker": "Views\\TaskListView.axaml",
               "ToolTip": "E:\\Project\\ProductivityApp\\Views\\TaskListView.axaml",
               "RelativeToolTip": "Views\\TaskListView.axaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2025-02-03T13:31:51.892Z",
               "EditorCaption": ""
@@ -170,13 +170,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "MainWindow.axaml.cs",
               "DocumentMoniker": "E:\\Project\\ProductivityApp\\Views\\MainWindow.axaml.cs",
               "RelativeDocumentMoniker": "Views\\MainWindow.axaml.cs",
               "ToolTip": "E:\\Project\\ProductivityApp\\Views\\MainWindow.axaml.cs",
               "RelativeToolTip": "Views\\MainWindow.axaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAzwAUAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-03T13:10:42.21Z",
               "EditorCaption": ""

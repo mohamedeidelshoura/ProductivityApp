@@ -24,7 +24,7 @@ build_property.EnableCodeStyleSeverity =
 [E:/Project/ProductivityApp/App.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
-[E:/Project/ProductivityApp/MainWindow.axaml]
+[E:/Project/ProductivityApp/Views/MainWindow.axaml]
 build_metadata.AdditionalFiles.SourceItemGroup = AvaloniaXaml
 
 [E:/Project/ProductivityApp/Views/TaskListView.axaml]

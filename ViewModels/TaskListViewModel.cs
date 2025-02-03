@@ -2,7 +2,7 @@
 using System.Windows.Input;
 using ReactiveUI;
 
-namespace ProductivityApp.Views
+namespace ProductivityApp.ViewModels
 {
     public class TaskViewModel : ReactiveObject
     {
